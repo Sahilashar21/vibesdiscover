@@ -1,0 +1,174 @@
+*{
+  color: burlywood;
+  background-image: url(https://peterorsel.com/wp-content/uploads/2022/11/DJI_0061-1.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  margin: 10px;
+  padding-right: 2px;
+}
+#header {
+  text-align: center;
+  color:#ffbb00;
+  margin-bottom: 20px;
+  float: left;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-style:normal;
+  font-weight: bolder;
+  padding-top: 10px;
+  font-size: 140%;
+}
+
+nav a:hover
+{
+ color: #fffb0b;
+}
+ .navigation
+{
+ width: auto;
+ padding-top: 8px;
+ margin: auto;
+} 
+nav {
+  display: flex;
+  background-color: #007bff;
+  float: right;
+  width: 400px;
+  height: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  margin:15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.nav
+{
+  position: relative;
+  background: #000000;
+}
+#name{
+  clear: left;
+  padding-top: 40px;
+  color: orangered;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 2px;
+}
+
+#tagline
+{
+  color: #fff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#BOOK
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.kuchbhi {
+  display:flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 120px;
+  left: 600px;
+  transform: translate(0%-5%);
+  border-radius: 10px;
+  padding: 25px;
+  width: 50%;
+  border: 20px;
+  background: rgb(252, 147, 27);
+}
+
+.l1,
+.l2,
+.l3 {
+  background: rgb(252, 147, 27);
+  flex-basis : 30%; 
+  width: 150px;
+  height: 300px;
+}
+
+img
+{
+  height: 100px;
+  width: 200px;
+  padding-bottom: none;
+  background: rgb(252, 147, 27);
+}
+
+.location
+{
+  font-size: 18px;
+  padding-top: none;
+  background: rgb(252, 147, 27);
+  color:#007bff;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.Description
+{
+  padding-top: none;
+  font-size: 10px;
+  font-family: 'arial';
+  font-size: xx-small;
+  width: 200px;
+  background: rgb(252, 147, 27);
+  color: #fff;
+}
+
+.explore
+{
+  margin-top:10px;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background: #007bff;
+}
+
+
+#btn1
+{
+  margin-top: 28px;
+}
+
+#btn2
+{
+  margin-top: 58px;
+}
+
+#btn3
+{
+  margin-bottom: 15px;
+}
+
+
+#desc
+{
+  color: #fff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 6px;
+  width: 40%;
+}
+
+
+.About{
+  margin: 5%;
+  padding: 2px;
+}
+
+
+button {
+  padding: 10px;
+  color:rgb(255, 255, 255);
+  border:orange;
+  border-radius: 30px;
+  background:orangered;
+  font-family: arial;
+}
+
+button:hover {
+  background:rgb(255, 205, 0);
+}
